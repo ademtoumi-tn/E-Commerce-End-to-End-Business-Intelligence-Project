@@ -74,7 +74,7 @@ Power BI connects to the three Gold reporting tables plus a date dimension and a
 
 ### Executive Overview
 
-<img src="images/Executive_overview.png" alt="Executive Overview" width="850">
+<img src="images/Executive overview.png" alt="Executive Overview" width="850">
 
 A summary view for decision-makers: total orders, revenue, customers, average order value, and items per order, each compared against last year. Below the KPIs, monthly revenue and order trends sit next to a breakdown of revenue by customer segment, along with an AI-powered key-influencers panel that explains what's actually driving changes in order value.
 
